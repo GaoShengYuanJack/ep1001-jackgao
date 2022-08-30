@@ -1,0 +1,582 @@
+.solid-button-container {
+  display: flex;
+  position: relative;
+}
+.solid-button-button {
+  color: var(--dl-color-gray-white);
+  border: none;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-doubleunit);
+  border-radius: 50px;
+  padding-right: var(--dl-space-space-doubleunit);
+  padding-bottom: var(--dl-space-space-halfunit);
+  background-color: var(--dl-color-primary-100);
+}
+
+.blog-post-card31-blog-post-card {
+  width: 100%;
+  display: flex;
+  max-width: 1400px;
+  flex-direction: row;
+  justify-content: center;
+}
+.blog-post-card31-image {
+  flex: 0;
+  width: 1120px;
+  height: 414px;
+  align-self: center;
+  object-fit: cover;
+}
+.blog-post-card31-container {
+  flex: 1;
+  height: 405px;
+  display: flex;
+  padding: 32px;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.blog-post-card31-text {
+  margin-bottom: 48px;
+}
+.blog-post-card31-container1 {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 48px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.blog-post-card31-text1 {
+  color: var(--dl-color-gray-500);
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.blog-post-card31-root-class-name61 {
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 991px) {
+  .blog-post-card31-image {
+    width: 50%;
+  }
+}
+@media(max-width: 767px) {
+  .blog-post-card31-blog-post-card {
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .blog-post-card31-image {
+    width: 100%;
+  }
+  .blog-post-card31-container {
+    width: 100%;
+  }
+  .blog-post-card31-text {
+    margin-bottom: 32px;
+  }
+  .blog-post-card31-container1 {
+    margin-bottom: 32px;
+  }
+}
+
+.electronics-production-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.electronics-production-top-container {
+  width: 100%;
+  height: 446px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.electronics-production-navbar {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-doubleunit);
+  max-width: 1000px;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.electronics-production-right-side {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.electronics-production-links-container {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.electronics-production-navlink {
+  margin-right: var(--dl-space-space-doubleunit);
+  text-decoration: none;
+}
+.electronics-production-text {
+  margin-right: var(--dl-space-space-doubleunit);
+}
+.electronics-production-navlink1 {
+  display: contents;
+}
+.electronics-production-component {
+  text-decoration: none;
+}
+.electronics-production-banner {
+  width: 100%;
+  display: flex;
+  padding: 48px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-text1 {
+  font-size: 3rem;
+  text-align: center;
+}
+.electronics-production-text2 {
+  max-width: 1400px;
+  margin-top: 32px;
+  text-align: center;
+  margin-bottom: 32px;
+}
+.electronics-production-btn-group {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.electronics-production-blog {
+  width: 100%;
+  display: flex;
+  padding: 48px;
+  position: relative;
+  max-width: 1400px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-container01 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-container02 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-container03 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-container04 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-container05 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-container06 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-container07 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-container08 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-container09 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-container10 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-container11 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-container12 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-container13 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-container14 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-container15 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-container16 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-container17 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-container18 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-container19 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-container20 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-container21 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  margin-bottom: 32px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-footer {
+  color: var(--dl-color-gray-white);
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-tripleunit);
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background-color: var(--dl-color-gray-black);
+}
+.electronics-production-menu {
+  width: 100%;
+  display: flex;
+  max-width: 1000px;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.electronics-production-links-container1 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.electronics-production-follow-container {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.electronics-production-container22 {
+  width: 267px;
+  display: flex;
+  align-items: flex-start;
+  margin-left: 100px;
+  flex-direction: column;
+}
+.electronics-production-navlink2 {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.electronics-production-link {
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.electronics-production-navlink3 {
+  text-decoration: none;
+}
+@media(max-width: 767px) {
+  .electronics-production-right-side {
+    display: none;
+  }
+  .electronics-production-banner {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .electronics-production-text2 {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .electronics-production-blog {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+  .electronics-production-menu {
+    flex-direction: column;
+  }
+  .electronics-production-links-container1 {
+    margin-top: var(--dl-space-space-tripleunit);
+    margin-bottom: var(--dl-space-space-tripleunit);
+    justify-content: space-between;
+  }
+}
+@media(max-width: 479px) {
+  .electronics-production-banner {
+    padding-top: 32px;
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: 32px;
+  }
+  .electronics-production-btn-group {
+    flex-direction: column;
+  }
+  .electronics-production-blog {
+    padding-top: 32px;
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: 32px;
+  }
+  .electronics-production-links-container1 {
+    margin-top: var(--dl-space-space-doubleunit);
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .electronics-production-follow-container {
+    margin-left: 0px;
+  }
+  .electronics-production-container22 {
+    height: 100%;
+    align-items: flex-start;
+    margin-left: 50px;
+  }
+  .electronics-production-navlink2 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .electronics-production-link {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .electronics-production-navlink3 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+  .electronics-production-text5 {
+    margin-bottom: var(--dl-space-space-halfunit);
+  }
+}
